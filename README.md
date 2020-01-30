@@ -2,24 +2,26 @@
 
 ## 배운 내용
 
-- 1-1 : License, Slug란
-- 1-2 : get_absolute_url, url_reverse
+- 1주차-1 : License, Slug란
+- 1주차-2 : get_absolute_url, url_reverse
 
 [수업자료 링크1](https://github.com/web-together/Django-Shop/blob/master/docs/1st.md#1%EC%A3%BC%EC%B0%A8)   
 [수업자료 링크2](https://github.com/web-together/web-together.github.io/issues/6)   
-[정리](https://github.com/web-together/web-together.github.io/issues/4)
+[주차정리자료](https://github.com/web-together/web-together.github.io/issues/4)
 
-- 2-1 : crawling 기초 : request/bs4를 이용한 정적 페이지 크롤링
-- 2-2 : Template On Django : Django에 template 씌우기
+- 2주차-1 : crawling 기초 : request/bs4를 이용한 정적 페이지 크롤링
+- 2주차-2 : Template On Django : Django에 template 씌우기
 
-[수업자료 링크1 : 크롤링](https://github.com/web-together/Crawling-Session)
-[수업자료 링크2 : Template On Django](https://github.com/web-together/Template-On-Django)
+[수업자료 링크1 : 크롤링](https://github.com/web-together/Crawling-Session)   
+[수업자료 링크2 : Template On Django](https://github.com/web-together/Template-On-Django)   
+[주차정리자료](https://github.com/web-together/web-together.github.io/issues/5)
 
-- 3-1 : crawling 심화 : selenium
-- 3-2 : IAMPORT - 결제모듈 연동하기 
+- 3주차-1 : crawling 심화 : selenium
+- 3주차-2 : IAMPORT - 결제모듈 연동하기 
 
-[수업자료 링크1 : 크롤링](https://github.com/web-together/Crawling-Session)
-[수업자료 링크1 : 결제모듈 연동](https://github.com/web-together/payment-tutorial#%EC%95%84%EC%9E%84%ED%8F%AC%ED%8A%B8%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%9C-%EA%B2%B0%EC%A0%9C%EC%97%B0%EB%8F%99)
+[수업자료 링크1 : 크롤링](https://github.com/web-together/Crawling-Session)   
+[수업자료 링크1 : 결제모듈 연동](https://github.com/web-together/payment-tutorial#%EC%95%84%EC%9E%84%ED%8F%AC%ED%8A%B8%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%9C-%EA%B2%B0%EC%A0%9C%EC%97%B0%EB%8F%99)   
+[주차정리자료]()
 
 ## 자습한 내용
 
