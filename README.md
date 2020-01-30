@@ -1,5 +1,10 @@
 # 스터디 정리
 
+ - [배운 내용](https://github.com/web-together/review#%EB%B0%B0%EC%9A%B4-%EB%82%B4%EC%9A%A9)
+ - [자습한 내용](https://github.com/web-together/review#%EC%9E%90%EC%8A%B5%ED%95%9C-%EB%82%B4%EC%9A%A9)
+ - [제공 강의](https://github.com/web-together/review#%EC%A0%9C%EA%B3%B5-%EA%B0%95%EC%9D%98---git)
+ - [프로젝트](https://github.com/web-together/review#%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8)
+
 ## 배운 내용
 
 - 1주차-1 : License, Slug란
@@ -28,8 +33,6 @@
 - 소셜 로그인 : 유인물 참고
 - Django로 Session 다루기 [참고자료](https://github.com/web-together/Django-Shop/blob/master/docs/2nd.md#django-session-%EA%B4%80%EB%A6%AC)
 
-## 클론 코딩 유인물 제공
-
 ## 제공 강의 - git
 
  - 1. [git으로 되돌리자](https://sig-kr.github.io/LikeLion_2_git1.html#git-reset-%EC%9D%B4%EB%A1%A0) 
@@ -45,5 +48,5 @@
 ## 프로젝트
 
 - 클론코딩 : 쇼핑몰 프로젝트
-- 웹서비스
+~- 웹서비스~
 
